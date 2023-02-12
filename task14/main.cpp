@@ -13,8 +13,7 @@ int main()
 	std::string res2 = "";
 	TrieNode* node = getNewNode();
 	
-	insert(node, "zadnitsa");
-	insert(node, "zapor");
+	insert(node, "zaporozhets");
 	insert(node, "zarya");
 	insert(node, "zarnitsa");
 	insert(node, "zayats");
